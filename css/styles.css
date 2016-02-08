@@ -1,0 +1,17 @@
+
+.playertable{
+    width: 90%;
+    display: block;
+    margin: auto;
+}
+
+img{
+    width: 150px;
+}
+
+div.input-group{
+    float: right;
+    overflow: auto;
+    width: 200px;
+    padding-bottom: 10px;
+}
